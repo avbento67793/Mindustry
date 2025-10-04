@@ -35,5 +35,3 @@ Please add the scrumboard picture here.
 ### Burndown Chart for the sprint
 
 Please add the burndown chart here.
-
-Rodrig
