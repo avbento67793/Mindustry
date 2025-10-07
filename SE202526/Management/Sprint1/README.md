@@ -24,7 +24,7 @@ Student name and number
 
 Please add the scrumboard picture here.
 
-### Scrum Board at the middle of the sprint
+### Scrum Board in the middle of the sprint
 
 Please add the scrumboard picture here.
 
@@ -35,3 +35,7 @@ Please add the scrumboard picture here.
 ### Burndown Chart for the sprint
 
 Please add the burndown chart here.
+
+### Gantt Chart
+
+Please add the Gantt chart here.
