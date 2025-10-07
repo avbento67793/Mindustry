@@ -35,3 +35,7 @@ Please add the scrumboard picture here.
 ### Burndown Chart for the sprint
 
 Please add the burndown chart here.
+
+### Gantt Chart
+
+Please add the Gantt chart here.
