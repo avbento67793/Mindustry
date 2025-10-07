@@ -16,4 +16,4 @@ tool you choose.
 Each week should correspond to a sprint. For each sprint, please store the following information:
 - BurndownChart (spreadsheet) - chart for this sprint; the spreadsheet should identify the status per day along the week.
 - Hint: you can use the same template (excel spreadsheet) from the SE labs 
-- ScrumBoard (spreadsheet/snapshots) - please consider the following status for the scrumboard: *Backlog*, *Todo*, *Doing*, *Reviewing*, *Done*); the tasks should identify who is/was responsible for doing them. You can use snapshots from tools like Trello or Jira, or other project management tools, if you will (as long as the required information is there).
+- ScrumBoard (spreadsheet/snapshots) - please consider the following status for the scrumboard: *Backlog*, *Todo*, *Doing*, *Reviewing*, *Done*); the tasks should identify who is/was responsible for doing them. Please use the provided template.
