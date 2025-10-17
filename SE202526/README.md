@@ -1,6 +1,6 @@
 # Software Engineering Project
 
-(Add Mindustry project short intro (e.g., a short paragraph) here.)
+Mindustry – a strategy and tower-defense game focused on resource management, factory building, and base defense.
 
 ## Authors
 (Replace teaching team members with your team members. Before you do so, you may want to copy the professor's handles and send an invitation to each of them so that they can take a look at your project.)
