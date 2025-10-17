@@ -7,5 +7,6 @@ Mindustry is a strategy and tower defense game where players mine resources, bui
 - 67793 - Afonso Bento - [@AfonsoBento](https://github.com/avbento67793)
 - 68594 - Tomás Silvestre - [@TomasSilvestre](https://github.com/roottomas)
 - 68040 - Dinis Lagarinhos - [@DinisLagarinhos](https://github.com/alaga0055)
+- 68342 - Ricardo Laur - [@RicardoLaur](httos://github.com/ricardolaur)
 - 00000 - Vasco Amaral - [@vascoamaral](https://github.com/vascoamaral)
 - 00000 - João Araújo - [@JoaoAraujoJr](https://github.com/JoaoAraujoJr)
