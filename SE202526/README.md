@@ -1,6 +1,6 @@
 # Software Engineering Project
 
-Mindustry – a strategy and tower-defense game focused on resource management, factory building, and base defense.
+Mindustry is a strategy and tower defense game where players mine resources, build factories, and defend their base. It combines real-time combat with resource management and automation, offering both single-player and multiplayer modes, as well as customizable maps for endless strategic challenges.
 
 ## Authors
 (Replace teaching team members with your team members. Before you do so, you may want to copy the professor's handles and send an invitation to each of them so that they can take a look at your project.)
